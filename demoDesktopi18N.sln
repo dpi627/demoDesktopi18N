@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp", "WinFormsApp\WinFormsApp.csproj", "{80D49076-7261-495B-AFD4-325B5531F8A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "i18N", "i18N\i18N.csproj", "{3FF62D1C-3651-4818-9C0B-1D398BB4D525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80D49076-7261-495B-AFD4-325B5531F8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D49076-7261-495B-AFD4-325B5531F8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D49076-7261-495B-AFD4-325B5531F8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D49076-7261-495B-AFD4-325B5531F8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF62D1C-3651-4818-9C0B-1D398BB4D525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF62D1C-3651-4818-9C0B-1D398BB4D525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF62D1C-3651-4818-9C0B-1D398BB4D525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF62D1C-3651-4818-9C0B-1D398BB4D525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		RESX_NeutralResourcesLanguage = zh-TW
+		SolutionGuid = {FB50CB94-EC82-4F40-B733-CF2BCBE33B30}
+	EndGlobalSection
+EndGlobal
